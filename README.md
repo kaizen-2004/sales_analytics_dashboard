@@ -267,12 +267,33 @@ Dashboard:
 
 ## Screenshots
 
-Add screenshots here after running the frontend.
+### Database Setup
+![phpMyAdmin Row Count](screenshots/01-phpmyadmin-row-count.png)
 
-```text
-screenshots/dashboard-home.png
-screenshots/transaction-table.png
-```
+### Backend API
+![Backend JSON Summary](screenshots/02-backend-json-summary.png)
+
+### Testing
+![Unit Tests Passing](screenshots/03-unit-tests-passing.png)
+
+### Dashboard
+![Full Dashboard Page](screenshots/04-full-dashboard-page.png)
+
+### Summary Cards
+![Summary Cards](screenshots/05-summary-cards.png)
+
+### Charts
+![Revenue by Month Chart](screenshots/06-revenue-by-month-chart.png)
+![Project Status Chart](screenshots/07-project-status-chart.png)
+
+### Transaction Table
+![Transaction Table](screenshots/08-transaction-table.png)
+
+### Search & Filter
+![Search Filtered Results](screenshots/09-search-filtered-results.png)
+
+### Project Structure
+![Folder Structure](screenshots/10-folder-structure.png)
 
 ## Troubleshooting
 
